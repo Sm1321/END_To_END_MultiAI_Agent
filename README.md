@@ -1,4 +1,4 @@
-## Multi AI Agent Project with Groq and Tabily
+## Multi AI Agent Project with Groq and Tavily
 -
 
 
