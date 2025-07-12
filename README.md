@@ -25,5 +25,6 @@
 ## About the Folders
 - in `app Folder` we are having all the Folders in it.
 - Core :- Having the Main logic of the Project
-- frontend :-
-- backend :-
+- frontend :- About the Front End Code
+- backend :- About the Backend Code
+- 

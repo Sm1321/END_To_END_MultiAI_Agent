@@ -1,3 +1,4 @@
+langchain
 langchain-groq
 langchain-community
 python-dotenv
@@ -5,3 +6,5 @@ fastapi
 pydantic
 streamlit
 langgraph
+langchain-core
+uvicorn
