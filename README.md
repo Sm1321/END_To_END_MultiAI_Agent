@@ -15,7 +15,7 @@
 
 
 
-#### Installition
+#### 🛠️ Setup Instructions and Installition
 - `pip install -e .` : To Install the setup.py
 - `pip install -r requirements.txt` : Install the requiremenst.txt files
 - 
