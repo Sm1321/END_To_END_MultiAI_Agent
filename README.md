@@ -6,7 +6,7 @@
 - Based on the user input , the Streamlit app Works as MultiAgent 
 
 ## 💥Credits for the Project
-- I have Learned this project from the `Krishnaik Academy` and 'Sudhanshu Gusain`
+- I have Learned this project from the `Krishnaik Academy` and `Sudhanshu Gusain`
 - All the credits goes to the above mentioned 
 
 
