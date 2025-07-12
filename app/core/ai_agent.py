@@ -15,9 +15,9 @@ def get_response_from_ai_agents(llm_id , query , allow_search ,system_prompt):
     tools = [TavilySearchResults(max_results=2)] if allow_search else []
     #Create a ReactAgent
     agent = create_react_agent(
-        model=llm,
-        tools=tools,
-        state_modifier=system_prompt
+        model = llm,
+        tools = tools,
+        state_modifier = system_prompt
     )
     #State with messages, sending the user query
     state = {"messages" : query}
