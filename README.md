@@ -2,7 +2,7 @@
 ## About this Project
 - This Project is uses the Groq LLM and Tavily Search Tool
 - In this Project the user have to  give the System Prompt  and query , both will be given by the user
--User  can choose to use the Tavily or not, by using the checkbox option as `allow_web_search` , this will search the userquery in the Web
+- User  can choose to use the Tavily or not, by using the checkbox option as `allow_web_search` , this will search the userquery in the Web
 - Based on the user input , the Streamlit app Works as MultiAgent 
 
 ## Credits for the Project
