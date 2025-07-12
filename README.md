@@ -5,7 +5,7 @@
 - User  can choose to use the Tavily or not, by using the checkbox option as `allow_web_search` , this will search the userquery in the Web
 - Based on the user input , the Streamlit app Works as MultiAgent 
 
-## Credits for the Project
+## 💥Credits for the Project
 - I have Learned this project from the `Krishnaik Academy` and 'Sudhanshu Gusain`
 - All the credits goes to the above mentioned 
 
@@ -18,9 +18,10 @@
 
 
 
-## About the Folders
+## 📂About the Folders
 - in `app Folder` we are having all the Folders in it.
-- Core :- Having the Main logic of the Project
-- frontend :- About the Front End Code
-- backend :- About the Backend Code
-- 
+- `Core` :- Having the Main logic of the Project
+- `frontend` :- About the Front End Code
+- `backend` :- About the Backend Code
+- `main.py` :- File we run the Code to Excute the Streamlit APP
+- `config` :- Groq Models 
